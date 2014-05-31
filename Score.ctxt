@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ Score\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=scr
+comment1.target=void\ displayOne(int)
+comment2.params=scr
+comment2.target=void\ displayTwo(int)
+comment3.params=
+comment3.target=void\ displayPlayer1()
+comment4.params=
+comment4.target=void\ displayPlayer2()
+comment5.params=
+comment5.target=void\ displayZero()
+comment6.params=
+comment6.target=void\ displayEqual()
+comment7.params=s1
+comment7.target=void\ displayTotalOne(int)
+comment8.params=s2
+comment8.target=void\ displayTotalTwo(int)
+numComments=9

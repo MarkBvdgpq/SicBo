@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=io
+comment0.target=void\ addObserver(IObserver)
+comment1.params=dicelist\ list
+comment1.target=void\ notifyObserver(java.util.List,\ java.util.List)
+comment10.params=
+comment10.target=int\ getS2()
+comment2.params=
+comment2.target=void\ Dice()
+comment3.params=
+comment3.target=void\ check()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ roll()
+comment6.params=
+comment6.target=void\ setFace()
+comment7.params=
+comment7.target=void\ calculate()
+comment8.params=string
+comment8.target=void\ selectTile(java.lang.String)
+comment9.params=
+comment9.target=int\ getS1()
+numComments=11

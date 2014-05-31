@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SicBoTiles()
+comment1.params=
+comment1.target=void\ highlight()
+comment2.params=
+comment2.target=void\ reset()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=chip
+comment4.target=boolean\ isChipOnIt(Chip)
+comment5.params=chip2
+comment5.target=boolean\ isChipOnItTwo(ChipTwo)
+comment6.params=dicelist\ list
+comment6.target=void\ update(java.util.List,\ java.util.List)
+comment7.params=string\ list
+comment7.target=void\ selectTile(java.lang.String,\ java.util.List)
+numComments=8

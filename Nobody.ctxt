@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ status()
+comment1.params=f
+comment1.target=void\ setFlag(boolean)
+comment2.params=
+comment2.target=boolean\ getFlag()
+numComments=3

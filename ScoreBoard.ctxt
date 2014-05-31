@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ScoreBoard()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ ScoreBoard\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=command
+comment1.target=ScoreBoard(ICommand)
+comment2.params=command
+comment2.target=void\ setCommand(ICommand)
+comment3.params=
+comment3.target=ICommand\ getCommand()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ addObservers()
+comment6.params=
+comment6.target=void\ notifyObservers()
+numComments=7
